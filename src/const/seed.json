@@ -1,0 +1,542 @@
+[
+  {
+    "recurring_deposit": [
+      {
+        "id": "38ce05f9-dd2e-49b2-bd99-d7ab94e0cbc8",
+        "amount": 98437,
+        "frequency": "Monthly",
+        "start_date": "2023-08-05T12:38:10.835Z",
+        "end_date": "2023-08-05T01:26:06.361Z",
+        "created_at": "2023-08-05T02:08:04.000Z",
+        "updated_at": "2023-08-05T15:02:45.165Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d063617f-bbee-4542-878e-79ee4a5bce0c",
+        "amount": 66455,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-05T12:22:01.115Z",
+        "end_date": "2023-08-05T13:05:49.390Z",
+        "created_at": "2023-08-05T08:54:11.138Z",
+        "updated_at": "2023-08-04T17:12:33.438Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5fc4b14b-10ec-4501-87a0-00ec4d1ab1d8",
+        "amount": 82617,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-04T22:49:43.869Z",
+        "end_date": "2023-08-04T15:45:41.358Z",
+        "created_at": "2023-08-04T17:30:57.705Z",
+        "updated_at": "2023-08-05T02:10:58.491Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1c05fc6e-f07a-4ad4-bd30-86d96fb3eb8f",
+        "amount": 13916,
+        "frequency": "Annually",
+        "start_date": "2023-08-05T01:24:42.123Z",
+        "end_date": "2023-08-05T06:45:10.950Z",
+        "created_at": "2023-08-05T02:19:42.235Z",
+        "updated_at": "2023-08-04T23:11:23.770Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e1af89ed-896c-4292-b13d-e6ade2d98f02",
+        "amount": 27406,
+        "frequency": "Custom",
+        "start_date": "2023-08-05T01:59:45.838Z",
+        "end_date": "2023-08-05T05:56:02.231Z",
+        "created_at": "2023-08-04T21:47:58.760Z",
+        "updated_at": "2023-08-05T03:53:18.563Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "recurring_deposit": [
+      {
+        "id": "c3947b1a-ecf5-48a3-a8d9-65178b4602fa",
+        "amount": 69500,
+        "frequency": "Monthly",
+        "start_date": "2023-08-05T06:07:02.163Z",
+        "end_date": "2023-08-04T15:45:01.860Z",
+        "created_at": "2023-08-05T09:58:32.082Z",
+        "updated_at": "2023-08-05T10:08:28.856Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b95b92fe-3182-4c09-b3a5-706e60e843a0",
+        "amount": 79805,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-05T00:10:50.661Z",
+        "end_date": "2023-08-05T03:22:47.495Z",
+        "created_at": "2023-08-04T22:19:31.506Z",
+        "updated_at": "2023-08-04T22:47:45.571Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "137c4b1f-192a-468f-9806-5a023d714944",
+        "amount": 58267,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-04T19:04:33.854Z",
+        "end_date": "2023-08-05T08:21:57.790Z",
+        "created_at": "2023-08-04T21:42:28.520Z",
+        "updated_at": "2023-08-05T13:49:27.632Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1b0b905f-ab70-435e-ba5c-56270c7742eb",
+        "amount": 23154,
+        "frequency": "Annually",
+        "start_date": "2023-08-04T22:17:56.267Z",
+        "end_date": "2023-08-05T13:51:43.282Z",
+        "created_at": "2023-08-05T07:53:46.013Z",
+        "updated_at": "2023-08-04T23:12:10.248Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "43d5554c-cbeb-4109-804c-871cb88e74fc",
+        "amount": 74373,
+        "frequency": "Custom",
+        "start_date": "2023-08-04T17:31:30.154Z",
+        "end_date": "2023-08-04T22:18:34.703Z",
+        "created_at": "2023-08-05T00:31:16.389Z",
+        "updated_at": "2023-08-05T07:04:04.293Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "recurring_deposit": [
+      {
+        "id": "cc2d1395-10e7-4c55-b5fb-6f7cec8b32e3",
+        "amount": 43551,
+        "frequency": "Monthly",
+        "start_date": "2023-08-05T05:32:15.444Z",
+        "end_date": "2023-08-04T17:19:18.898Z",
+        "created_at": "2023-08-05T12:03:55.379Z",
+        "updated_at": "2023-08-05T02:48:55.930Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "86fd73e3-05b9-4e1e-b394-5b627f30cab9",
+        "amount": 79679,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-05T07:09:46.237Z",
+        "end_date": "2023-08-05T11:21:58.632Z",
+        "created_at": "2023-08-05T01:48:25.699Z",
+        "updated_at": "2023-08-05T10:02:36.423Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8255bcb-67ea-4138-b303-dd2f569e84fa",
+        "amount": 87497,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-05T10:27:55.727Z",
+        "end_date": "2023-08-05T03:17:31.038Z",
+        "created_at": "2023-08-05T08:07:45.189Z",
+        "updated_at": "2023-08-05T04:24:49.534Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3ecb8e46-12a1-4201-aebb-d4996009e5fc",
+        "amount": 26570,
+        "frequency": "Annually",
+        "start_date": "2023-08-05T11:27:31.675Z",
+        "end_date": "2023-08-04T19:44:07.963Z",
+        "created_at": "2023-08-04T22:39:14.187Z",
+        "updated_at": "2023-08-04T18:47:03.967Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8653935-d782-49b2-9f83-d72e0782b689",
+        "amount": 7825,
+        "frequency": "Custom",
+        "start_date": "2023-08-05T15:00:20.719Z",
+        "end_date": "2023-08-05T13:00:51.028Z",
+        "created_at": "2023-08-05T05:44:23.975Z",
+        "updated_at": "2023-08-05T02:55:06.940Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "recurring_deposit": [
+      {
+        "id": "e19cad37-8229-4f28-b7a0-f2a64bc72d6d",
+        "amount": 17441,
+        "frequency": "Monthly",
+        "start_date": "2023-08-05T05:09:14.139Z",
+        "end_date": "2023-08-04T17:42:27.566Z",
+        "created_at": "2023-08-05T02:08:15.815Z",
+        "updated_at": "2023-08-05T01:35:50.656Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f2be6eb6-4626-4944-bc83-986dbb9bd73f",
+        "amount": 26167,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-05T14:26:40.995Z",
+        "end_date": "2023-08-05T13:19:23.694Z",
+        "created_at": "2023-08-05T14:20:27.002Z",
+        "updated_at": "2023-08-04T16:04:11.650Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7be7ff7a-e5d8-427f-9b78-cc42bbabb252",
+        "amount": 22240,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-05T07:49:46.088Z",
+        "end_date": "2023-08-05T13:25:01.598Z",
+        "created_at": "2023-08-04T19:13:04.614Z",
+        "updated_at": "2023-08-05T02:16:25.365Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c5e70856-d460-43d2-95aa-e399609f4fe7",
+        "amount": 77334,
+        "frequency": "Annually",
+        "start_date": "2023-08-04T16:43:45.650Z",
+        "end_date": "2023-08-04T23:34:02.596Z",
+        "created_at": "2023-08-05T02:14:16.043Z",
+        "updated_at": "2023-08-05T03:35:03.024Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d565eec5-610a-4c9f-9b2e-0bf75d1aa6da",
+        "amount": 90511,
+        "frequency": "Fortnightly",
+        "start_date": "2023-08-04T17:52:54.339Z",
+        "end_date": "2023-08-05T14:55:38.508Z",
+        "created_at": "2023-08-05T01:54:40.157Z",
+        "updated_at": "2023-08-04T20:09:54.734Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "recurring_deposit": [
+      {
+        "id": "c2afcb38-66a8-462e-946a-9c8bb4838344",
+        "amount": 91623,
+        "frequency": "Monthly",
+        "start_date": "2023-08-05T05:12:06.416Z",
+        "end_date": "2023-08-04T22:39:20.611Z",
+        "created_at": "2023-08-05T09:00:01.149Z",
+        "updated_at": "2023-08-05T06:05:26.155Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1f73c423-3540-4d3f-97e7-da4be550d0da",
+        "amount": 21090,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-04T17:02:06.536Z",
+        "end_date": "2023-08-04T16:46:59.889Z",
+        "created_at": "2023-08-04T16:27:12.769Z",
+        "updated_at": "2023-08-04T17:56:29.800Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "66bcaf62-7165-467e-a276-33fc3f16784a",
+        "amount": 41970,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-05T13:33:52.174Z",
+        "end_date": "2023-08-04T15:25:17.312Z",
+        "created_at": "2023-08-04T17:08:15.598Z",
+        "updated_at": "2023-08-04T22:21:51.010Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0bd06af1-ee57-44ce-ba18-3d35590178bd",
+        "amount": 81605,
+        "frequency": "Annually",
+        "start_date": "2023-08-04T23:39:14.808Z",
+        "end_date": "2023-08-04T22:29:35.619Z",
+        "created_at": "2023-08-05T11:54:26.430Z",
+        "updated_at": "2023-08-05T02:03:01.036Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2f08a8d5-3660-428b-96c4-00ef570b9ec4",
+        "amount": 47746,
+        "frequency": "Custom",
+        "start_date": "2023-08-05T08:04:59.963Z",
+        "end_date": "2023-08-05T03:35:18.328Z",
+        "created_at": "2023-08-05T07:49:21.536Z",
+        "updated_at": "2023-08-04T19:22:59.867Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "recurring_deposit": [
+      {
+        "id": "a65d7a19-1f2e-4b00-9b7f-41c07d99e636",
+        "amount": 77013,
+        "frequency": "Monthly",
+        "start_date": "2023-08-04T23:37:34.131Z",
+        "end_date": "2023-08-04T19:03:39.147Z",
+        "created_at": "2023-08-04T21:44:30.792Z",
+        "updated_at": "2023-08-04T22:48:45.594Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "433c7f81-3e3a-4262-be7a-ec095176b61f",
+        "amount": 91521,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-05T06:01:54.159Z",
+        "end_date": "2023-08-05T09:47:43.667Z",
+        "created_at": "2023-08-05T11:08:25.876Z",
+        "updated_at": "2023-08-05T11:13:59.327Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "198df854-cd21-4d4b-a2ed-0fd19620c5ab",
+        "amount": 24137,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-04T16:08:16.362Z",
+        "end_date": "2023-08-04T15:53:35.779Z",
+        "created_at": "2023-08-04T17:09:34.366Z",
+        "updated_at": "2023-08-04T16:17:02.461Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cb65eb43-e3a3-413c-98d3-24732273c22a",
+        "amount": 7964,
+        "frequency": "Annually",
+        "start_date": "2023-08-05T07:38:51.213Z",
+        "end_date": "2023-08-04T20:03:09.914Z",
+        "created_at": "2023-08-04T21:11:38.785Z",
+        "updated_at": "2023-08-05T11:08:35.827Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f2a6230d-bd9d-4bee-9d8b-d9b8504011af",
+        "amount": 17735,
+        "frequency": "Custom",
+        "start_date": "2023-08-05T12:51:20.857Z",
+        "end_date": "2023-08-04T16:28:43.928Z",
+        "created_at": "2023-08-05T10:47:28.940Z",
+        "updated_at": "2023-08-05T11:34:45.884Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "recurring_deposit": [
+      {
+        "id": "f5ca2556-00ba-4ec3-a4aa-9801e370d2ff",
+        "amount": 26030,
+        "frequency": "Monthly",
+        "start_date": "2023-08-05T10:57:31.256Z",
+        "end_date": "2023-08-04T22:37:11.197Z",
+        "created_at": "2023-08-05T14:05:14.392Z",
+        "updated_at": "2023-08-04T18:55:21.614Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "26b55b5a-d48e-46cc-aa6b-dce7917a053f",
+        "amount": 95217,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-05T08:11:09.885Z",
+        "end_date": "2023-08-04T21:56:41.815Z",
+        "created_at": "2023-08-05T00:03:44.066Z",
+        "updated_at": "2023-08-05T09:33:59.741Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "af271c18-f3e1-4d7c-a9b9-d3626d7014f3",
+        "amount": 43688,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-04T23:54:29.018Z",
+        "end_date": "2023-08-04T15:29:56.414Z",
+        "created_at": "2023-08-05T09:36:47.440Z",
+        "updated_at": "2023-08-04T17:42:43.670Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0424c27a-fd1a-4136-a073-fe4500760bb9",
+        "amount": 4243,
+        "frequency": "Annually",
+        "start_date": "2023-08-05T02:01:07.452Z",
+        "end_date": "2023-08-04T15:36:10.626Z",
+        "created_at": "2023-08-04T16:51:13.582Z",
+        "updated_at": "2023-08-05T10:51:06.223Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a52bc4a7-118d-4f6d-b9ab-ac432cd4c454",
+        "amount": 67261,
+        "frequency": "Custom",
+        "start_date": "2023-08-05T04:15:13.280Z",
+        "end_date": "2023-08-05T08:13:05.656Z",
+        "created_at": "2023-08-05T08:12:41.425Z",
+        "updated_at": "2023-08-05T14:32:51.536Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "recurring_deposit": [
+      {
+        "id": "0572deda-fb0d-4b0c-8c8f-8e1717d2e3ed",
+        "amount": 14087,
+        "frequency": "Monthly",
+        "start_date": "2023-08-05T13:54:56.338Z",
+        "end_date": "2023-08-04T23:53:31.914Z",
+        "created_at": "2023-08-04T16:20:03.972Z",
+        "updated_at": "2023-08-04T23:24:04.948Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "92fc471a-a12c-4464-be26-92b70482c065",
+        "amount": 38861,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-05T04:58:47.317Z",
+        "end_date": "2023-08-05T09:50:42.348Z",
+        "created_at": "2023-08-04T22:39:38.801Z",
+        "updated_at": "2023-08-05T14:27:29.190Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2b6c790c-d643-43e4-be71-cdd54cd6c3df",
+        "amount": 31443,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-05T04:18:45.007Z",
+        "end_date": "2023-08-04T15:57:28.405Z",
+        "created_at": "2023-08-04T18:49:52.203Z",
+        "updated_at": "2023-08-04T18:17:59.689Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "07faa394-61a4-4fcc-8d09-1e0a72c3b7c4",
+        "amount": 17843,
+        "frequency": "Annually",
+        "start_date": "2023-08-05T13:28:12.205Z",
+        "end_date": "2023-08-05T00:07:34.899Z",
+        "created_at": "2023-08-05T08:25:19.555Z",
+        "updated_at": "2023-08-05T13:38:44.392Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "262043af-0956-4bd9-bd0d-3f66ee30753c",
+        "amount": 25547,
+        "frequency": "Fortnightly",
+        "start_date": "2023-08-04T18:28:07.226Z",
+        "end_date": "2023-08-04T22:12:17.847Z",
+        "created_at": "2023-08-05T02:54:15.323Z",
+        "updated_at": "2023-08-04T18:57:39.577Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "recurring_deposit": [
+      {
+        "id": "f99f1273-1cad-460e-a3c5-904653a1f0a1",
+        "amount": 28425,
+        "frequency": "Monthly",
+        "start_date": "2023-08-05T13:15:08.913Z",
+        "end_date": "2023-08-04T15:47:08.205Z",
+        "created_at": "2023-08-05T14:55:07.512Z",
+        "updated_at": "2023-08-04T20:34:16.966Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "675b8f60-2aba-4cb5-9c63-bf7cb65843cf",
+        "amount": 9574,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-04T15:58:42.722Z",
+        "end_date": "2023-08-04T19:12:40.614Z",
+        "created_at": "2023-08-04T18:25:37.028Z",
+        "updated_at": "2023-08-05T12:08:48.236Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7fab1d4d-ddfb-4f7c-ba2d-33c7cafc2bb6",
+        "amount": 99323,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-05T07:45:26.894Z",
+        "end_date": "2023-08-04T23:46:29.542Z",
+        "created_at": "2023-08-05T09:10:00.320Z",
+        "updated_at": "2023-08-04T15:07:01.579Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d5bcf578-872c-4e03-aa0e-cb6c4b3c4363",
+        "amount": 48360,
+        "frequency": "Annually",
+        "start_date": "2023-08-05T12:25:36.266Z",
+        "end_date": "2023-08-05T09:20:24.901Z",
+        "created_at": "2023-08-05T11:28:45.045Z",
+        "updated_at": "2023-08-05T00:55:01.580Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5666de97-c4d3-45a9-bd3c-085cc76be22f",
+        "amount": 88435,
+        "frequency": "Fortnightly",
+        "start_date": "2023-08-04T22:45:26.567Z",
+        "end_date": "2023-08-05T10:52:35.501Z",
+        "created_at": "2023-08-05T07:45:21.693Z",
+        "updated_at": "2023-08-05T00:29:17.773Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "recurring_deposit": [
+      {
+        "id": "d3b86b09-51fd-434e-b699-7dc38f077415",
+        "amount": 52109,
+        "frequency": "Monthly",
+        "start_date": "2023-08-05T11:55:25.971Z",
+        "end_date": "2023-08-04T22:57:40.002Z",
+        "created_at": "2023-08-05T12:27:10.054Z",
+        "updated_at": "2023-08-05T11:30:10.078Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "60712e11-9fb5-4327-96ef-a87adf1051ec",
+        "amount": 57586,
+        "frequency": "Quarterly",
+        "start_date": "2023-08-05T05:00:30.495Z",
+        "end_date": "2023-08-05T03:14:44.846Z",
+        "created_at": "2023-08-05T01:17:27.000Z",
+        "updated_at": "2023-08-04T18:33:23.187Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fbf360b9-5697-437a-a786-e253422f5262",
+        "amount": 42699,
+        "frequency": "Bi-annually",
+        "start_date": "2023-08-05T09:57:26.748Z",
+        "end_date": "2023-08-04T20:37:05.216Z",
+        "created_at": "2023-08-04T20:25:54.184Z",
+        "updated_at": "2023-08-05T11:12:51.245Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8604066-a13c-4c95-ad7d-cb6adad652c1",
+        "amount": 23352,
+        "frequency": "Annually",
+        "start_date": "2023-08-05T07:13:30.260Z",
+        "end_date": "2023-08-04T22:16:56.260Z",
+        "created_at": "2023-08-04T18:14:40.048Z",
+        "updated_at": "2023-08-05T12:53:14.078Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "da257d3c-58b0-46b4-8701-85725963f28a",
+        "amount": 26292,
+        "frequency": "Fortnightly",
+        "start_date": "2023-08-05T13:39:35.034Z",
+        "end_date": "2023-08-04T17:36:17.934Z",
+        "created_at": "2023-08-05T04:51:37.558Z",
+        "updated_at": "2023-08-04T17:10:17.313Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  }
+]
